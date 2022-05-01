@@ -1,0 +1,1 @@
+{"batch_size": 100, "embedding_dim": 50, "hidden_dim": 25, "num_epochs": 200, "learn_rate": 0.001, "max_len": 48}
